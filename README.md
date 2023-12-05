@@ -1,2 +1,2 @@
-# Mac-Centre
-Repo to share files with Mac-Centre
+# CGS-JAMF
+Repo to share JAMF files
