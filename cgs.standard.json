@@ -54,8 +54,8 @@
     "allowGracePeriods": true,
     "gracePeriodInstallDelay": 72,
     "gracePeriodLaunchDelay": 1,
-    "iconDarkPath": "/Library/Application Support/Maccentre/Logos/SelfServiceImage.png",
-    "iconLightPath": "/Library/Application Support/Maccentre/Logos/SelfServiceImage.png",
+    "iconDarkPath": "/Library/Application Support/cgs/Logos/cgs.png",
+    "iconLightPath": "/Library/Application Support/cgs/Logos/cgs.png",
     "updateElements": [
       {
         "_language": "en",
