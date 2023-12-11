@@ -20,7 +20,7 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-gb/HT214032",
       "requiredInstallationDate": "2023-12-19T06:00:00Z",
-      "requiredMinimumOSVersion": "14.2.1",
+      "requiredMinimumOSVersion": "14.1.2",
       "targetedOSVersionsRule": "14"
     },
     {
