@@ -19,13 +19,13 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-gb/HT214032",
-      "requiredInstallationDate": "2024-02-23T06:00:00Z",
+      "requiredInstallationDate": "2024-03-08T06:00:00Z",
       "requiredMinimumOSVersion": "14.3.1",
       "targetedOSVersionsRule": "14"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-gb/HT214058",
-      "requiredInstallationDate": "2024-02-23T06:00:00Z",
+      "requiredInstallationDate": "2024-03-08T06:00:00Z",
       "requiredMinimumOSVersion": "13.6.4",
       "targetedOSVersionsRule": "13"
     },
