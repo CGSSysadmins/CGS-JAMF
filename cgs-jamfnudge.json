@@ -16,7 +16,7 @@
     "terminateApplicationsOnLaunch": false,
     "aggressiveUserFullScreenExperience": false
   },
-  "osVersionRequirements": [
+   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-gb/HT214084",
       "requiredInstallationDate": "2024-03-20T06:00:00Z",
